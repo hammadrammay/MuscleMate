@@ -4,10 +4,13 @@
    This Fitness app is designed to help users perform gym exercises at home without the need for a trainer. It provides step-by-step guidance on performing exercises correctly to achieve fitness goals.
 
 ## ScreenShots
-![screenshot_1](https://github.com/hammadrammay/MuscleMate/assets/109869144/4b6cd160-ded2-41f7-ba50-da6ba40c2d6e){:width="200px" height="150px"}
-![screenshot_2](https://github.com/hammadrammay/MuscleMate/assets/109869144/4b995eb8-9249-41cb-8649-2455fdec3a35){:width="200px" height="150px"}
-![screenshot_3](https://github.com/hammadrammay/MuscleMate/assets/109869144/affa6039-b4be-49d1-a8e6-7135ef46ca7f){:width="200px" height="150px"}
-![screenshot_4](https://github.com/hammadrammay/MuscleMate/assets/109869144/5f3a4665-0d55-4e3a-9d1d-00e24120f54c){:width="200px" height="150px"}
+
+<img src="https://github.com/hammadrammay/MuscleMate/assets/109869144/5f3a4665-0d55-4e3a-9d1d-00e24120f54c" alt="screenshot" width="500" height="300">
+
+![screenshot_1](https://github.com/hammadrammay/MuscleMate/assets/109869144/4b6cd160-ded2-41f7-ba50-da6ba40c2d6e)
+![screenshot_2](https://github.com/hammadrammay/MuscleMate/assets/109869144/4b995eb8-9249-41cb-8649-2455fdec3a35)
+![screenshot_3](https://github.com/hammadrammay/MuscleMate/assets/109869144/affa6039-b4be-49d1-a8e6-7135ef46ca7f)
+![screenshot_4](https://github.com/hammadrammay/MuscleMate/assets/109869144/5f3a4665-0d55-4e3a-9d1d-00e24120f54c)
 
 
 
