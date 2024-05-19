@@ -5,7 +5,7 @@
 
 ## ScreenShots
 
-<img src="https://github.com/hammadrammay/MuscleMate/assets/109869144/5f3a4665-0d55-4e3a-9d1d-00e24120f54c" alt="screenshot" width="500" height="800">
+<img src="https://github.com/hammadrammay/MuscleMate/assets/109869144/5f3a4665-0d55-4e3a-9d1d-00e24120f54c" alt="screenshot" width="600" height="1200">
 
 ![screenshot_1](https://github.com/hammadrammay/MuscleMate/assets/109869144/4b6cd160-ded2-41f7-ba50-da6ba40c2d6e)
 ![screenshot_2](https://github.com/hammadrammay/MuscleMate/assets/109869144/4b995eb8-9249-41cb-8649-2455fdec3a35)
