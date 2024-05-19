@@ -4,7 +4,10 @@
    This Fitness app is designed to help users perform gym exercises at home without the need for a trainer. It provides step-by-step guidance on performing exercises correctly to achieve fitness goals.
 
 ## ScreenShots
-
+![screenshot_1](https://github.com/hammadrammay/MuscleMate/assets/109869144/21149c93-1213-4889-bf48-638605f3ecce)
+![screenshot_4](https://github.com/hammadrammay/MuscleMate/assets/109869144/819527cc-a282-489b-8937-1d30f386c992)
+![screenshot_3](https://github.com/hammadrammay/MuscleMate/assets/109869144/dd86fb72-4625-449c-8837-f13e5095b27e)
+![screenshot_2](https://github.com/hammadrammay/MuscleMate/assets/109869144/064accda-7501-4ec0-a088-20144b927b67)
 
 ## Installation
    To install and run the app locally, follow these steps:
