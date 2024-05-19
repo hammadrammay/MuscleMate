@@ -5,12 +5,9 @@
 
 ## ScreenShots
 
-<img src="https://github.com/hammadrammay/MuscleMate/assets/109869144/5f3a4665-0d55-4e3a-9d1d-00e24120f54c" alt="screenshot" width="300" height="600">
+<img src="https://github.com/hammadrammay/MuscleMate/assets/109869144/4b6cd160-ded2-41f7-ba50-da6ba40c2d6e" alt="screenshot" width="300" height="700"> <img src="https://github.com/hammadrammay/MuscleMate/assets/109869144/4b995eb8-9249-41cb-8649-2455fdec3a35" alt="screenshot" width="300" height="700">
+<img src="https://github.com/hammadrammay/MuscleMate/assets/109869144/affa6039-b4be-49d1-a8e6-7135ef46ca7f" alt="screenshot" width="300" height="700"> <img src="https://github.com/hammadrammay/MuscleMate/assets/109869144/5f3a4665-0d55-4e3a-9d1d-00e24120f54c" alt="screenshot" width="300" height="700">
 
-![screenshot_1](https://github.com/hammadrammay/MuscleMate/assets/109869144/4b6cd160-ded2-41f7-ba50-da6ba40c2d6e)
-![screenshot_2](https://github.com/hammadrammay/MuscleMate/assets/109869144/4b995eb8-9249-41cb-8649-2455fdec3a35)
-![screenshot_3](https://github.com/hammadrammay/MuscleMate/assets/109869144/affa6039-b4be-49d1-a8e6-7135ef46ca7f)
-![screenshot_4](https://github.com/hammadrammay/MuscleMate/assets/109869144/5f3a4665-0d55-4e3a-9d1d-00e24120f54c)
 
 
 
